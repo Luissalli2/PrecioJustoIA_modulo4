@@ -33,3 +33,6 @@ Thumbs.db
 # Coverage / cache
 /coverage
 .cache/
+
+# Comandos de Spec Kit instalados por `specify init` (regenerables; no se versionan)
+.claude/skills/speckit-*/
